@@ -1,5 +1,13 @@
 # vinxi
 
+## 0.3.12
+
+### Patch Changes
+
+- 2f6e51c: fix: https type def
+- 3b0e0d5: fix: css module hmr update
+- 49fefb8: chore(vinxi): ensure installing vinxi only install one esbuild version
+
 ## 0.3.11
 
 ### Patch Changes
